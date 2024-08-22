@@ -7,8 +7,8 @@ GEM
       ast (~> 2.4.1)
     rainbow (3.0.0)
     regexp_parser (1.8.2)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.3.6)
+      strscan
     rubocop (0.93.1)
       parallel (~> 1.10)
       parser (>= 2.7.1.5)
